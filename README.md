@@ -1,17 +1,10 @@
-Name: Jayron Aries D. Lagat
+Name: Gian Charlowe Rasos Lagua
 Date of Submition: 05-30-2026
 
 
-This repository provides an overview analysis of Bahaghari Retail Co. The dataset has been carefully cleaned, processed, and visualized to ensure it is suitable for report-ready presentation and decision-making purposes.
-Throughout the analysis, the data underwent thorough preparation, including handling missing values, removing inconsistencies, and standardizing formats to ensure accuracy and reliability. 
-After cleaning, exploratory data analysis was performed to uncover meaningful patterns and trends within the company’s performance.
-The visualizations were designed to clearly communicate key insights, highlighting important aspects such as sales performance, 
-customer behavior, and product trends. These insights aim to provide a better understanding of the company’s overall 
-operations and identify areas of strength as well as opportunities for improvement.
-Overall, this analysis serves as a data-driven foundation for 
-evaluating the performance of Bahaghari Retail Co., 
-supporting informed business decisions
-and strategic planning.
+This repository presents a comprehensive analysis of Bahaghari Retail Co., utilizing data that has been thoroughly cleaned, transformed, and visualized to support effective decision-making and professional reporting. The data preparation process involved addressing missing values, correcting inconsistencies, and standardizing formats to improve data quality and ensure reliable results.
+Following the cleaning phase, exploratory data analysis was conducted to identify significant trends, patterns, and relationships within the company's operations. Interactive visualizations and dashboards were developed to effectively communicate key findings, focusing on areas such as sales performance, customer purchasing behavior, and product performance.
+The insights generated from this analysis provide a clearer understanding of Bahaghari Retail Co.'s business operations, highlighting both strengths and potential areas for improvement. Ultimately, this project serves as a data-driven resource that supports strategic planning, performance evaluation, and informed business decision-making.
 
 01_statistics/ --This folder contains the descriptive statistic.
 
@@ -24,4 +17,4 @@ and strategic planning.
 Tools Used:
 (Excel version, SQLite, Power BI Desktop)
 
-“I affirm that this work is entirely my own and that I have neither given nor received unauthorized assistance, in accordance with academic integrity guidelines.”
+I affirm that this work is my own original effort and has been completed in accordance with academic integrity standards. I have neither given nor received any unauthorized assistance in the preparation of this project, and all sources and references have been properly acknowledged where applicable.
